@@ -24,7 +24,7 @@
 const anchal = {
     code: ["C++", "JavaScript", "Solidity", "TypeScript"],
     technologies: {
-        frontEnd: ["React", "Redux", "Tailwind CSS", "HTML5", "CSS3"],
+        frontEnd: ["React", "Tailwind CSS", "HTML5", "CSS3"],
         backEnd: ["Node.js", "Express.js"],
         databases: ["MongoDB", "MySQL"],
         blockchain: ["Web3.js", "Ethers.js", "Smart Contracts"],
