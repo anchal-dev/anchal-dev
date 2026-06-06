@@ -91,8 +91,14 @@ const anchal = {
   </a>
 </div>
 
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anchal-dev&theme=tokyonight" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anchal-dev&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anchal-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anchal-dev&theme=tokyonight)
+
 </div>
 
 ---
@@ -132,4 +138,4 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 **⭐️ From [anchal-dev](https://github.com/anchal-dev) with 💙**
 
-</div>
+</div>   this is my readme i have toedit in this?
