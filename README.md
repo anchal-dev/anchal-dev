@@ -92,14 +92,6 @@ const anchal = {
 </div>
 
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anchal-dev&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anchal-dev&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anchal-dev&theme=tokyonight)
-
-</div>
 
 ---
 
