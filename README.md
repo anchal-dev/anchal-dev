@@ -91,6 +91,14 @@ const anchal = {
   </a>
 </div>
 
+<div align="center">
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anchal-dev&theme=tokyonight" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anchal-dev&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
 ---
 
 
